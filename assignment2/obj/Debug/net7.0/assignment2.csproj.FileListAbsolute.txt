@@ -1,0 +1,14 @@
+D:\Bootcamp2023\assignment2\obj\Debug\net7.0\assignment2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamp2023\assignment2\obj\Debug\net7.0\assignment2.AssemblyInfoInputs.cache
+D:\Bootcamp2023\assignment2\obj\Debug\net7.0\assignment2.AssemblyInfo.cs
+D:\Bootcamp2023\assignment2\obj\Debug\net7.0\assignment2.csproj.CoreCompileInputs.cache
+D:\Bootcamp2023\assignment2\bin\Debug\net7.0\assignment2.exe
+D:\Bootcamp2023\assignment2\bin\Debug\net7.0\assignment2.deps.json
+D:\Bootcamp2023\assignment2\bin\Debug\net7.0\assignment2.runtimeconfig.json
+D:\Bootcamp2023\assignment2\bin\Debug\net7.0\assignment2.dll
+D:\Bootcamp2023\assignment2\bin\Debug\net7.0\assignment2.pdb
+D:\Bootcamp2023\assignment2\obj\Debug\net7.0\assignment2.dll
+D:\Bootcamp2023\assignment2\obj\Debug\net7.0\refint\assignment2.dll
+D:\Bootcamp2023\assignment2\obj\Debug\net7.0\assignment2.pdb
+D:\Bootcamp2023\assignment2\obj\Debug\net7.0\assignment2.genruntimeconfig.cache
+D:\Bootcamp2023\assignment2\obj\Debug\net7.0\ref\assignment2.dll

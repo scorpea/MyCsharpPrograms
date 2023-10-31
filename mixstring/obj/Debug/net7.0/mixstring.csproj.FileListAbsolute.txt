@@ -1,0 +1,14 @@
+D:\Bootcamp2023\mixstring\bin\Debug\net7.0\mixstring.exe
+D:\Bootcamp2023\mixstring\bin\Debug\net7.0\mixstring.deps.json
+D:\Bootcamp2023\mixstring\bin\Debug\net7.0\mixstring.runtimeconfig.json
+D:\Bootcamp2023\mixstring\bin\Debug\net7.0\mixstring.dll
+D:\Bootcamp2023\mixstring\bin\Debug\net7.0\mixstring.pdb
+D:\Bootcamp2023\mixstring\obj\Debug\net7.0\mixstring.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamp2023\mixstring\obj\Debug\net7.0\mixstring.AssemblyInfoInputs.cache
+D:\Bootcamp2023\mixstring\obj\Debug\net7.0\mixstring.AssemblyInfo.cs
+D:\Bootcamp2023\mixstring\obj\Debug\net7.0\mixstring.csproj.CoreCompileInputs.cache
+D:\Bootcamp2023\mixstring\obj\Debug\net7.0\mixstring.dll
+D:\Bootcamp2023\mixstring\obj\Debug\net7.0\refint\mixstring.dll
+D:\Bootcamp2023\mixstring\obj\Debug\net7.0\mixstring.pdb
+D:\Bootcamp2023\mixstring\obj\Debug\net7.0\mixstring.genruntimeconfig.cache
+D:\Bootcamp2023\mixstring\obj\Debug\net7.0\ref\mixstring.dll

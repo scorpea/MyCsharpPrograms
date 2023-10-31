@@ -1,0 +1,7 @@
+Grades:
+
+|     Student Name     | Exam Score | Grade |
+|----------------------|------------|-------|
+| Bola Tinubu          | 43         | D     |
+| Atiku Abubakar       | 56         | C     |
+| Peter Obi            | 89         | B     |

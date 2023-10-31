@@ -1,0 +1,14 @@
+D:\Bootcamp2023\genstring\bin\Debug\net7.0\genstring.exe
+D:\Bootcamp2023\genstring\bin\Debug\net7.0\genstring.deps.json
+D:\Bootcamp2023\genstring\bin\Debug\net7.0\genstring.runtimeconfig.json
+D:\Bootcamp2023\genstring\bin\Debug\net7.0\genstring.dll
+D:\Bootcamp2023\genstring\bin\Debug\net7.0\genstring.pdb
+D:\Bootcamp2023\genstring\obj\Debug\net7.0\genstring.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamp2023\genstring\obj\Debug\net7.0\genstring.AssemblyInfoInputs.cache
+D:\Bootcamp2023\genstring\obj\Debug\net7.0\genstring.AssemblyInfo.cs
+D:\Bootcamp2023\genstring\obj\Debug\net7.0\genstring.csproj.CoreCompileInputs.cache
+D:\Bootcamp2023\genstring\obj\Debug\net7.0\genstring.dll
+D:\Bootcamp2023\genstring\obj\Debug\net7.0\refint\genstring.dll
+D:\Bootcamp2023\genstring\obj\Debug\net7.0\genstring.pdb
+D:\Bootcamp2023\genstring\obj\Debug\net7.0\genstring.genruntimeconfig.cache
+D:\Bootcamp2023\genstring\obj\Debug\net7.0\ref\genstring.dll

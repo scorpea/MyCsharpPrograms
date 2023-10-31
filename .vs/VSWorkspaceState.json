@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\AccFormula"
   ],
-  "SelectedNode": "\\MyCalculator",
+  "SelectedNode": "\\AccFormula\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
