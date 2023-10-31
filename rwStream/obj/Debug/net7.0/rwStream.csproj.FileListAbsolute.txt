@@ -1,0 +1,14 @@
+D:\Bootcamp2023\rwstream\bin\Debug\net7.0\rwStream.exe
+D:\Bootcamp2023\rwstream\bin\Debug\net7.0\rwStream.deps.json
+D:\Bootcamp2023\rwstream\bin\Debug\net7.0\rwStream.runtimeconfig.json
+D:\Bootcamp2023\rwstream\bin\Debug\net7.0\rwStream.dll
+D:\Bootcamp2023\rwstream\bin\Debug\net7.0\rwStream.pdb
+D:\Bootcamp2023\rwstream\obj\Debug\net7.0\rwStream.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamp2023\rwstream\obj\Debug\net7.0\rwStream.AssemblyInfoInputs.cache
+D:\Bootcamp2023\rwstream\obj\Debug\net7.0\rwStream.AssemblyInfo.cs
+D:\Bootcamp2023\rwstream\obj\Debug\net7.0\rwStream.csproj.CoreCompileInputs.cache
+D:\Bootcamp2023\rwstream\obj\Debug\net7.0\rwStream.dll
+D:\Bootcamp2023\rwstream\obj\Debug\net7.0\refint\rwStream.dll
+D:\Bootcamp2023\rwstream\obj\Debug\net7.0\rwStream.pdb
+D:\Bootcamp2023\rwstream\obj\Debug\net7.0\rwStream.genruntimeconfig.cache
+D:\Bootcamp2023\rwstream\obj\Debug\net7.0\ref\rwStream.dll

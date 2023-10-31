@@ -1,0 +1,14 @@
+D:\Bootcamp2023\readwrite\obj\Debug\net7.0\readwrite.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamp2023\readwrite\obj\Debug\net7.0\readwrite.AssemblyInfoInputs.cache
+D:\Bootcamp2023\readwrite\obj\Debug\net7.0\readwrite.AssemblyInfo.cs
+D:\Bootcamp2023\readwrite\obj\Debug\net7.0\readwrite.csproj.CoreCompileInputs.cache
+D:\Bootcamp2023\readwrite\bin\Debug\net7.0\readwrite.exe
+D:\Bootcamp2023\readwrite\bin\Debug\net7.0\readwrite.deps.json
+D:\Bootcamp2023\readwrite\bin\Debug\net7.0\readwrite.runtimeconfig.json
+D:\Bootcamp2023\readwrite\bin\Debug\net7.0\readwrite.dll
+D:\Bootcamp2023\readwrite\bin\Debug\net7.0\readwrite.pdb
+D:\Bootcamp2023\readwrite\obj\Debug\net7.0\readwrite.dll
+D:\Bootcamp2023\readwrite\obj\Debug\net7.0\refint\readwrite.dll
+D:\Bootcamp2023\readwrite\obj\Debug\net7.0\readwrite.pdb
+D:\Bootcamp2023\readwrite\obj\Debug\net7.0\readwrite.genruntimeconfig.cache
+D:\Bootcamp2023\readwrite\obj\Debug\net7.0\ref\readwrite.dll

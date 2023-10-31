@@ -1,0 +1,14 @@
+D:\Bootcamp2023\accformula\obj\Debug\net7.0\AccFormula.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamp2023\accformula\obj\Debug\net7.0\AccFormula.AssemblyInfoInputs.cache
+D:\Bootcamp2023\accformula\obj\Debug\net7.0\AccFormula.AssemblyInfo.cs
+D:\Bootcamp2023\accformula\obj\Debug\net7.0\AccFormula.csproj.CoreCompileInputs.cache
+D:\Bootcamp2023\accformula\bin\Debug\net7.0\AccFormula.exe
+D:\Bootcamp2023\accformula\bin\Debug\net7.0\AccFormula.deps.json
+D:\Bootcamp2023\accformula\bin\Debug\net7.0\AccFormula.runtimeconfig.json
+D:\Bootcamp2023\accformula\bin\Debug\net7.0\AccFormula.dll
+D:\Bootcamp2023\accformula\bin\Debug\net7.0\AccFormula.pdb
+D:\Bootcamp2023\accformula\obj\Debug\net7.0\AccFormula.dll
+D:\Bootcamp2023\accformula\obj\Debug\net7.0\refint\AccFormula.dll
+D:\Bootcamp2023\accformula\obj\Debug\net7.0\AccFormula.pdb
+D:\Bootcamp2023\accformula\obj\Debug\net7.0\AccFormula.genruntimeconfig.cache
+D:\Bootcamp2023\accformula\obj\Debug\net7.0\ref\AccFormula.dll
