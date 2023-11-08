@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Bootcamp2023\\AccFormula\\AccFormula.csproj": {}
+    "D:\\Csharp_Program\\AccFormula\\AccFormula.csproj": {}
   },
   "projects": {
-    "D:\\Bootcamp2023\\AccFormula\\AccFormula.csproj": {
+    "D:\\Csharp_Program\\AccFormula\\AccFormula.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Bootcamp2023\\AccFormula\\AccFormula.csproj",
+        "projectUniqueName": "D:\\Csharp_Program\\AccFormula\\AccFormula.csproj",
         "projectName": "AccFormula",
-        "projectPath": "D:\\Bootcamp2023\\AccFormula\\AccFormula.csproj",
+        "projectPath": "D:\\Csharp_Program\\AccFormula\\AccFormula.csproj",
         "packagesPath": "C:\\Users\\Scorpea\\.nuget\\packages\\",
-        "outputPath": "D:\\Bootcamp2023\\AccFormula\\obj\\",
+        "outputPath": "D:\\Csharp_Program\\AccFormula\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

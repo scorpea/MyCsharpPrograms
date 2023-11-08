@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Bootcamp2023\\assignment3\\assignment3.csproj",
+      "projectUniqueName": "D:\\Csharp_Program\\assignment3\\assignment3.csproj",
       "projectName": "assignment3",
-      "projectPath": "D:\\Bootcamp2023\\assignment3\\assignment3.csproj",
+      "projectPath": "D:\\Csharp_Program\\assignment3\\assignment3.csproj",
       "packagesPath": "C:\\Users\\Scorpea\\.nuget\\packages\\",
-      "outputPath": "D:\\Bootcamp2023\\assignment3\\obj\\",
+      "outputPath": "D:\\Csharp_Program\\assignment3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

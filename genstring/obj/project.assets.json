@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Bootcamp2023\\genstring\\genstring.csproj",
+      "projectUniqueName": "D:\\Csharp_Program\\genstring\\genstring.csproj",
       "projectName": "genstring",
-      "projectPath": "D:\\Bootcamp2023\\genstring\\genstring.csproj",
+      "projectPath": "D:\\Csharp_Program\\genstring\\genstring.csproj",
       "packagesPath": "C:\\Users\\Scorpea\\.nuget\\packages\\",
-      "outputPath": "D:\\Bootcamp2023\\genstring\\obj\\",
+      "outputPath": "D:\\Csharp_Program\\genstring\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

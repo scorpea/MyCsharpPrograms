@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4pE5W6Ndhn4+5hOCgJz47OBudtMtQCigyCZ3WXXW2GiWRlqwRtqkYAV5IhkWyjWBsrGHaJ5WU7VOjlMuy25OTw==",
+  "dgSpecHash": "Jp1UFSKJMzEjc/I/cVu+llvoBva08sBi1CfYHSA6/Agoj8To2nZ30+dfdjCsOatYMXBlvTVglt7pDsSjHNW2dQ==",
   "success": true,
-  "projectFilePath": "D:\\Bootcamp2023\\readwrite\\readwrite.csproj",
+  "projectFilePath": "D:\\Csharp_Program\\readwrite\\readwrite.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

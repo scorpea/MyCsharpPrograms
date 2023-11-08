@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Bootcamp2023\\readwrite\\readwrite.csproj": {}
+    "D:\\Csharp_Program\\readwrite\\readwrite.csproj": {}
   },
   "projects": {
-    "D:\\Bootcamp2023\\readwrite\\readwrite.csproj": {
+    "D:\\Csharp_Program\\readwrite\\readwrite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Bootcamp2023\\readwrite\\readwrite.csproj",
+        "projectUniqueName": "D:\\Csharp_Program\\readwrite\\readwrite.csproj",
         "projectName": "readwrite",
-        "projectPath": "D:\\Bootcamp2023\\readwrite\\readwrite.csproj",
+        "projectPath": "D:\\Csharp_Program\\readwrite\\readwrite.csproj",
         "packagesPath": "C:\\Users\\Scorpea\\.nuget\\packages\\",
-        "outputPath": "D:\\Bootcamp2023\\readwrite\\obj\\",
+        "outputPath": "D:\\Csharp_Program\\readwrite\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
